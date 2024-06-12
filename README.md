@@ -19,6 +19,7 @@ Currently I focus on studying theoretical AI, integrating it into practical proj
 [![Bash](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash/)
 [![LaTeX](https://skillicons.dev/icons?i=latex)](https://www.latex-project.org/)
 [![Arch](https://skillicons.dev/icons?i=arch)](https://archlinux.org/)
+[![Maven](https://skillicons.dev/icons?i=maven)](https://maven.apache.org/)
 <a href="https://es.wikipedia.org/wiki/Inkscape"><img src="https://raw.githubusercontent.com/wjramos/flat.icns/inkscape/pngs/inkscape.png" width="52" height="52"></a>
 
 ## Projects
