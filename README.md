@@ -26,6 +26,7 @@ Currently I focus on studying theoretical AI, integrating it into practical proj
 #### Software AI:
 #### Software:
 #### Design:
+![Camdax Design](https://github.com/C4mdax/Camdax.git)
 
 # ...
 
