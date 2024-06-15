@@ -18,7 +18,7 @@ Currently I focus on studying theoretical AI, integrating it into practical proj
 [![Git](https://skillicons.dev/icons?i=git)](https://es.wikipedia.org/wiki/Git)
 [![Bash](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash/)
 [![LaTeX](https://skillicons.dev/icons?i=latex)](https://www.latex-project.org/)
-[![Arch](https://skillicons.dev/icons?i=arch)](https://archlinux.org/)
+[![Linux](https://skillicons.dev/icons?i=linux)](https://archlinux.org/)
 [![Maven](https://skillicons.dev/icons?i=maven)](https://maven.apache.org/)
 <a href="https://es.wikipedia.org/wiki/Inkscape"><img src="https://raw.githubusercontent.com/wjramos/flat.icns/inkscape/pngs/inkscape.png" width="52" height="52"></a>
 <a href="https://jupyter.org/"><img src="https://technology.amis.nl/wp-content/uploads/2020/11/image-27.png" width="52" height="52"></a>
