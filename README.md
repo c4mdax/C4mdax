@@ -29,6 +29,8 @@ Currently I focus on studying theoretical AI, integrating it into practical proj
 #### Design:
 - ![Camdax Design](https://github.com/C4mdax/Camdax.git)
 #### Scientific Computing
+- ![Mandelbrot Fractal](https://github.com/C4mdax/Scientific-Computing/tree/215d586c2e77d4082e74d82f014ce8756593be9e/BootCamp-ISC/Mandelbrot)
+
 # ...
 
 _Memento Mori_
