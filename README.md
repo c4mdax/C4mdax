@@ -12,6 +12,7 @@ Currently I focus on studying theoretical AI, integrating it into practical proj
 [![TensorFlow](https://skillicons.dev/icons?i=tensorflow)](https://www.tensorflow.org/?hl=es-419)
 [![PyTorch](https://skillicons.dev/icons?i=pytorch)](https://es.wikipedia.org/wiki/PyTorch)
 [![SciKit-learn](https://skillicons.dev/icons?i=scikitlearn)](https://scikit-learn.org/stable/)
+<a href="https://pandas.pydata.org/"><img src="https://anaconda.cloud/api/content/legacy_redirect/78db91c6-1bcc-49cd-a16e-0afaf7064ad0" width="52" height="52"></a>
 <a href="https://numpy.org/"><img src="https://user-images.githubusercontent.com/50221806/86498201-a8bd8680-bd39-11ea-9d08-66b610a8dc01.png" width="52" height="52"></a>
 <a href="https://matplotlib.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png" width="52" height="52"></a>
 
@@ -24,6 +25,7 @@ Currently I focus on studying theoretical AI, integrating it into practical proj
 [![Maven](https://skillicons.dev/icons?i=maven)](https://maven.apache.org/)
 <a href="https://es.wikipedia.org/wiki/Inkscape"><img src="https://raw.githubusercontent.com/wjramos/flat.icns/inkscape/pngs/inkscape.png" width="52" height="52"></a>
 <a href="https://jupyter.org/"><img src="https://technology.amis.nl/wp-content/uploads/2020/11/image-27.png" width="52" height="52"></a>
+<a href="https://www.anaconda.com/download"><img src="https://avatars.githubusercontent.com/u/497012?s=280&v=4" width="52" height="52"></a>
 
 ## ◯ Projects
 #### Software AI:
