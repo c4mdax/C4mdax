@@ -25,7 +25,7 @@ Currently I focus on studying theoretical AI, integrating it into practical proj
 [![Maven](https://skillicons.dev/icons?i=maven)](https://maven.apache.org/)
 <a href="https://es.wikipedia.org/wiki/Inkscape"><img src="https://raw.githubusercontent.com/wjramos/flat.icns/inkscape/pngs/inkscape.png" width="52" height="52"></a>
 <a href="https://jupyter.org/"><img src="https://technology.amis.nl/wp-content/uploads/2020/11/image-27.png" width="52" height="52"></a>
-[![SciKit-learn](https://skillicons.dev/icons?i=anaconda)](www.anaconda.com/download)
+[![SciKit-learn](https://skillicons.dev/icons?i=anaconda)](http://www.anaconda.com/)
 
 
 ## ◯ Projects
