@@ -20,6 +20,7 @@ Currently I focus on studying theoretical AI, integrating it into practical proj
 [![Emacs](https://skillicons.dev/icons?i=emacs)](https://www.gnu.org/software/emacs/)
 [![Git](https://skillicons.dev/icons?i=git)](https://es.wikipedia.org/wiki/Git)
 [![Bash](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash/)
+[![Notion](https://skillicons.dev/icons?i=notion)](https://www.notion.so/es-es)
 [![LaTeX](https://skillicons.dev/icons?i=latex)](https://www.latex-project.org/)
 [![Linux](https://skillicons.dev/icons?i=linux)](https://archlinux.org/)
 [![Maven](https://skillicons.dev/icons?i=maven)](https://maven.apache.org/)
