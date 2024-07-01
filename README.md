@@ -39,7 +39,7 @@ Currently I focus on studying theoretical AI, integrating it into practical proj
 
 # ...
 
-_Memento Mori_
+#### _Memento Mori_
 
 <!---
 C4mdax/C4mdax is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
