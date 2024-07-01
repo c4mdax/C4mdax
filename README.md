@@ -3,7 +3,7 @@
 I'm a Computer Science student since 2023 at the _UNAM, Faculty of Sciences_ 🇲🇽. I've a great interest in AI, both in its theoretical-practical aspects and in its artistic-humanistic aspects.
 Currently I focus on studying theoretical AI, integrating it into practical projects, always with the aim of improving my skills to become a professional in AI.
 
-## ◎Languages, Frameworks & Librarys I'm studying
+## ◎ Languages & Frameworks I'm studying
 [![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
 [![Java](https://skillicons.dev/icons?i=java)](https://www.java.com/es/)
 [![Julia](https://skillicons.dev/icons?i=julia)](https://julialang.org/)
