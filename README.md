@@ -3,7 +3,7 @@
 I'm a Computer Science student since 2023 at the _UNAM, Faculty of Sciences_ 🇲🇽. I've a great interest in AI, both in its theoretical-practical aspects and in its artistic-humanistic aspects.
 Currently I focus on studying theoretical AI, integrating it into practical projects, always with the aim of improving my skills to become a professional in AI.
 
-## ◯ Languages, Frameworks & Librarys I'm studying
+## ◎Languages, Frameworks & Librarys I'm studying
 [![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
 [![Java](https://skillicons.dev/icons?i=java)](https://www.java.com/es/)
 [![Julia](https://skillicons.dev/icons?i=julia)](https://julialang.org/)
@@ -16,7 +16,7 @@ Currently I focus on studying theoretical AI, integrating it into practical proj
 <a href="https://numpy.org/"><img src="https://user-images.githubusercontent.com/50221806/86498201-a8bd8680-bd39-11ea-9d08-66b610a8dc01.png" width="52" height="52"></a>
 <a href="https://matplotlib.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png" width="52" height="52"></a>
 
-## ◯ Tools
+## ◎ Tools
 [![Emacs](https://skillicons.dev/icons?i=emacs)](https://www.gnu.org/software/emacs/)
 [![Git](https://skillicons.dev/icons?i=git)](https://es.wikipedia.org/wiki/Git)
 [![Bash](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash/)
@@ -29,7 +29,7 @@ Currently I focus on studying theoretical AI, integrating it into practical proj
 [![SciKit-learn](https://skillicons.dev/icons?i=anaconda)](http://www.anaconda.com/)
 
 
-## ◯ Projects
+## ◎ Projects
 #### Software AI:
 #### Software:
 #### Design:
