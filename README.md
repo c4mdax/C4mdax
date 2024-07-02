@@ -7,11 +7,12 @@ Currently I focus on studying theoretical AI, integrating it into practical proj
 [![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
 [![Java](https://skillicons.dev/icons?i=java)](https://www.java.com/es/)
 [![Julia](https://skillicons.dev/icons?i=julia)](https://julialang.org/)
-[![R](https://skillicons.dev/icons?i=r)](https://www.r-project.org/)
+<a href="https://es.wikipedia.org/wiki/SQL"><img src="https://static-00.iconduck.com/assets.00/sql-database-generic-icon-1521x2048-d0vdpxpg.png" width="34" height=""></a>
 [![CPP](https://skillicons.dev/icons?i=cpp)](https://en.wikipedia.org/wiki/C%2B%2B)
 [![TensorFlow](https://skillicons.dev/icons?i=tensorflow)](https://www.tensorflow.org/?hl=es-419)
 [![PyTorch](https://skillicons.dev/icons?i=pytorch)](https://es.wikipedia.org/wiki/PyTorch)
 [![SciKit-learn](https://skillicons.dev/icons?i=scikitlearn)](https://scikit-learn.org/stable/)
+
 <a href="https://pandas.pydata.org/"><img src="https://anaconda.cloud/api/content/legacy_redirect/78db91c6-1bcc-49cd-a16e-0afaf7064ad0" width="52" height="52"></a>
 <a href="https://numpy.org/"><img src="https://user-images.githubusercontent.com/50221806/86498201-a8bd8680-bd39-11ea-9d08-66b610a8dc01.png" width="52" height="52"></a>
 <a href="https://matplotlib.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png" width="52" height="52"></a>
