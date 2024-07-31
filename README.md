@@ -8,6 +8,7 @@ Currently I focus on studying theoretical AI, integrating it into practical proj
 [![Java](https://skillicons.dev/icons?i=java)](https://www.java.com/es/)
 [![Julia](https://skillicons.dev/icons?i=julia)](https://julialang.org/)
 <a href="https://es.wikipedia.org/wiki/SQL"><img src="https://static-00.iconduck.com/assets.00/sql-database-generic-icon-1521x2048-d0vdpxpg.png" width="34" height=""></a>
+[![Julia](https://skillicons.dev/icons?i=r)](https://www.r-project.org/)
 [![CPP](https://skillicons.dev/icons?i=cpp)](https://en.wikipedia.org/wiki/C%2B%2B)
 [![TensorFlow](https://skillicons.dev/icons?i=tensorflow)](https://www.tensorflow.org/?hl=es-419)
 [![PyTorch](https://skillicons.dev/icons?i=pytorch)](https://es.wikipedia.org/wiki/PyTorch)
