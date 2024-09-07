@@ -7,6 +7,7 @@ Currently I focus on studying theoretical AI, integrating it into practical proj
 [![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
 [![Java](https://skillicons.dev/icons?i=java)](https://www.java.com/es/)
 [![Julia](https://skillicons.dev/icons?i=julia)](https://julialang.org/)
+[![Scala](https://skillicons.dev/icons?i=scala)](https://www.scala-lang.org/)
 [![Rust](https://skillicons.dev/icons?i=rust)](https://www.rust-lang.org/)
 [![R](https://skillicons.dev/icons?i=r)](https://www.r-project.org/)
 [![CPP](https://skillicons.dev/icons?i=cpp)](https://en.wikipedia.org/wiki/C%2B%2B)
@@ -16,13 +17,12 @@ Currently I focus on studying theoretical AI, integrating it into practical proj
 
 <a href="https://pandas.pydata.org/"><img src="https://anaconda.cloud/api/content/legacy_redirect/78db91c6-1bcc-49cd-a16e-0afaf7064ad0" width="52" height="52"></a>
 <a href="https://numpy.org/"><img src="https://user-images.githubusercontent.com/50221806/86498201-a8bd8680-bd39-11ea-9d08-66b610a8dc01.png" width="52" height="52"></a>
-<a href="https://matplotlib.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png" width="52" height="52"></a>
+
 
 ## ◎ Tools
 [![Emacs](https://skillicons.dev/icons?i=emacs)](https://www.gnu.org/software/emacs/)
 [![Git](https://skillicons.dev/icons?i=git)](https://es.wikipedia.org/wiki/Git)
 [![Bash](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash/)
-[![Notion](https://skillicons.dev/icons?i=notion)](https://www.notion.so/es-es)
 [![LaTeX](https://skillicons.dev/icons?i=latex)](https://www.latex-project.org/)
 [![Linux](https://skillicons.dev/icons?i=linux)](https://archlinux.org/)
 [![Maven](https://skillicons.dev/icons?i=maven)](https://maven.apache.org/)
