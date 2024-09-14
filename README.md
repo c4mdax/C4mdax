@@ -7,6 +7,7 @@ Currently I focus on studying theoretical AI, integrating it into practical proj
 [![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
 [![Java](https://skillicons.dev/icons?i=java)](https://www.java.com/es/)
 [![Julia](https://skillicons.dev/icons?i=julia)](https://julialang.org/)
+[![Scala](https://skillicons.dev/icons?i=scala)](https://www.scala-lang.org/)
 [![R](https://skillicons.dev/icons?i=r)](https://www.r-project.org/)
 [![CPP](https://skillicons.dev/icons?i=cpp)](https://en.wikipedia.org/wiki/C%2B%2B)
 [![TensorFlow](https://skillicons.dev/icons?i=tensorflow)](https://www.tensorflow.org/?hl=es-419)
