@@ -10,6 +10,7 @@ Currently I focus on studying theoretical AI, integrating it into practical proj
 [![Go](https://skillicons.dev/icons?i=go)](https://go.dev/)
 [![R](https://skillicons.dev/icons?i=r)](https://www.r-project.org/)
 [![Rust](https://skillicons.dev/icons?i=rust)](https://www.rust-lang.org/es)
+[![Scala](https://skillicons.dev/icons?i=scala)](https://www.scala-lang.org/)
 [![TensorFlow](https://skillicons.dev/icons?i=tensorflow)](https://www.tensorflow.org/?hl=es-419)
 [![PyTorch](https://skillicons.dev/icons?i=pytorch)](https://es.wikipedia.org/wiki/PyTorch)
 [![SciKit-learn](https://skillicons.dev/icons?i=scikitlearn)](https://scikit-learn.org/stable/)
