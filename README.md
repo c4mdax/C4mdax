@@ -1,7 +1,7 @@
 # Sup, I'm Angel...
 
 I'm a Computer Science student since 2023 at the _UNAM, Faculty of Sciences_ 🇲🇽. I've a great interest in AI, both in its theoretical-practical aspects and in its artistic-humanistic aspects.
-Currently I focus on studying theoretical AI, integrating it into practical projects, always with the aim of improving my skills to become a professional in AI.
+Little by little I have acquired a greater taste for studying and practicing things related to my studies, always trying to make the most of my resources for future opportunities. Apart from being an AI enthusiast, I also have an interest in backend development, which I have been learning recently.
 
 ## ◎ Languages & Frameworks I'm studying
 [![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
