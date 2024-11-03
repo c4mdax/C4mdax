@@ -8,6 +8,7 @@ Little by little I have acquired a greater taste for studying and practicing thi
 [![Java](https://skillicons.dev/icons?i=java)](https://www.java.com/es/)
 [![Julia](https://skillicons.dev/icons?i=julia)](https://julialang.org/)
 [![Go](https://skillicons.dev/icons?i=go)](https://go.dev/)
+<a href="https://en.wikipedia.org/wiki/SQL"><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="" height="46"></a>
 [![R](https://skillicons.dev/icons?i=r)](https://www.r-project.org/)
 [![Rust](https://skillicons.dev/icons?i=rust)](https://www.rust-lang.org/es)
 [![TensorFlow](https://skillicons.dev/icons?i=tensorflow)](https://www.tensorflow.org/?hl=es-419)
