@@ -35,7 +35,7 @@ Little by little I have acquired a greater taste for studying and practicing thi
 #### Software AI
 #### Software
 #### Chryptography / Security
-![CLI LSB-Steganography](https://github.com/C4mdax/LSB-Steganography)
+- ![CLI LSB-Steganography](https://github.com/C4mdax/LSB-Steganography)
 #### Design
 - ![Camdax Design](https://github.com/C4mdax/Camdax.git)
 #### Scientific Computing
