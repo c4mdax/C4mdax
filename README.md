@@ -32,9 +32,11 @@ Little by little I have acquired a greater taste for studying and practicing thi
 
 
 ## ◎ Projects
-#### Software AI:
-#### Software:
-#### Design:
+#### Software AI
+#### Software
+#### Chryptography / Security
+![CLI LSB-Steganography](https://github.com/C4mdax/LSB-Steganography)
+#### Design
 - ![Camdax Design](https://github.com/C4mdax/Camdax.git)
 #### Scientific Computing
 - ![Mandelbrot Fractal](https://github.com/C4mdax/Scientific-Computing/tree/215d586c2e77d4082e74d82f014ce8756593be9e/BootCamp-ISC/Mandelbrot)
