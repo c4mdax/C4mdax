@@ -39,7 +39,6 @@ Little by little I have acquired a greater taste for studying and practicing thi
 - ![Camdax Design](https://github.com/C4mdax/Camdax.git)
 #### Scientific Computing
 - ![Mandelbrot Fractal](https://github.com/C4mdax/Scientific-Computing/tree/215d586c2e77d4082e74d82f014ce8756593be9e/BootCamp-ISC/Mandelbrot)
-- ![Probability](https://github.com/C4mdax/Probability.git)
 
 ## ◎ Community Contributions
 - ![ML Engineer Roadmap](https://github.com/C4mdax/Machine_Learning/blob/main/Roadmap/ROADMAP.md)
