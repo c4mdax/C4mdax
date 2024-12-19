@@ -19,8 +19,8 @@ Little by little I have acquired a greater taste for studying and practicing thi
 
 
 ## ◎ Tools
-[![NVim](https://skillicons.dev/icons?i=neovim)](https://neovim.io/)
 [![Emacs](https://skillicons.dev/icons?i=emacs)](https://www.gnu.org/software/emacs/)
+[![NVim](https://skillicons.dev/icons?i=neovim)](https://neovim.io/)
 [![Git](https://skillicons.dev/icons?i=git)](https://es.wikipedia.org/wiki/Git)
 [![Bash](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash/)
 [![LaTeX](https://skillicons.dev/icons?i=latex)](https://www.latex-project.org/)
