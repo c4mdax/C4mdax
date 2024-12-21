@@ -39,6 +39,7 @@ Little by little I have acquired a greater taste for studying and practicing thi
 #### Design
 - ![Camdax Design](https://github.com/C4mdax/Camdax.git)
 #### Scientific Computing
+#### Basic Machine Learning
 
 ## ◎ Community Contributions
 - ![ML Engineer Roadmap](https://github.com/C4mdax/Machine_Learning/blob/main/Roadmap/ROADMAP.md)
