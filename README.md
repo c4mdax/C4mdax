@@ -16,7 +16,7 @@ Little by little I have acquired a greater taste for studying and practicing thi
 <a href="https://pandas.pydata.org/"><img src="https://anaconda.cloud/api/content/legacy_redirect/78db91c6-1bcc-49cd-a16e-0afaf7064ad0" width="52" height="52"></a>
 <a href="https://numpy.org/"><img src="https://user-images.githubusercontent.com/50221806/86498201-a8bd8680-bd39-11ea-9d08-66b610a8dc01.png" width="52" height="52"></a>
 [![FastAPI](https://skillicons.dev/icons?i=fastapi)](https://fastapi.tiangolo.com/)
-[![Django](https://skillicons.dev/icons?i=django)](https://www.djangoproject.com/)
+[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/)
 
 
 ## ◎ Tools
