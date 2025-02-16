@@ -1,15 +1,13 @@
 # Sup, I'm Angel...
 
-I'm a Computer Science student since 2023 at the _UNAM, Faculty of Sciences_ 🇲🇽. I've a great interest in AI, both in its theoretical-practical aspects and in its artistic-humanistic aspects.
-Little by little I have acquired a greater taste for studying and practicing things related to my studies, always trying to make the most of my resources for future opportunities. Apart from being an AI enthusiast, I also have an interest in backend development, which I have been learning recently.
+I'm a Computer Science student since 2023 at the _UNAM, Faculty of Sciences_ 🇲🇽. I've an interest in Software Backend Development, with Machine Learning implementations, therefore, I've been studying technologies related to this area, as well as complementing it with a solid theory to understand what I do. In addition to the technical part, from time to time I ramble on the the Philosophy of AI, sharing the most interesting in my [Posts](https://c4mdax.github.io/posts/).
 
 ## ◎ Languages & Frameworks I'm studying
 [![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
 [![Java](https://skillicons.dev/icons?i=java)](https://www.java.com/es/)
-[![Julia](https://skillicons.dev/icons?i=julia)](https://julialang.org/)
 <a href="https://en.wikipedia.org/wiki/SQL"><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="" height="46"></a>
-[![R](https://skillicons.dev/icons?i=r)](https://www.r-project.org/)
 [![Rust](https://skillicons.dev/icons?i=rust)](https://www.rust-lang.org/es)
+[![Go](https://skillicons.dev/icons?i=go)](https://go.dev/)
 [![TensorFlow](https://skillicons.dev/icons?i=tensorflow)](https://www.tensorflow.org/?hl=es-419)
 [![PyTorch](https://skillicons.dev/icons?i=pytorch)](https://es.wikipedia.org/wiki/PyTorch)
 [![SciKit-learn](https://skillicons.dev/icons?i=scikitlearn)](https://scikit-learn.org/stable/)
