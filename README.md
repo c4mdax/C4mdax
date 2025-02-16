@@ -34,17 +34,13 @@ I'm a Computer Science student since 2023 at the _UNAM, Faculty of Sciences_ �
 
 
 ## ◎ Projects
-#### Software AI
 #### Software
 #### Chryptography / Security
 - ![CLI LSB-Steganography](https://github.com/C4mdax/LSB-Steganography)
 - ![CLI Shamir Shared Secret](https://github.com/c4mdax/Shamir-Secret)
-#### Design
-- ![Camdax Design](https://github.com/C4mdax/Camdax.git)
-#### Scientific Computing
-#### Basic Machine Learning
+#### Software + ML
 
-## ◎ Community Contributions
+## ◎ Other
 - ![ML Engineer Roadmap](https://github.com/C4mdax/Machine_Learning/blob/main/Roadmap/ROADMAP.md)
 # ...
 
