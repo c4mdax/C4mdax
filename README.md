@@ -39,7 +39,7 @@ I'm a Computer Science student since 2023 at the _UNAM, Faculty of Sciences_ ðŸ‡
 - ![CLI LSB-Steganography](https://github.com/C4mdax/LSB-Steganography)
 - ![CLI Shamir Shared Secret](https://github.com/c4mdax/Shamir-Secret)
 #### Software + ML
-
+- ![CLI AI-RAG Agent](https://github.com/C4mdax/dragan-agent-rag)
 ## â—Ž Other
 - ![ML Engineer Roadmap](https://github.com/C4mdax/Machine_Learning/blob/main/Roadmap/ROADMAP.md)
 # ...
