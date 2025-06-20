@@ -11,7 +11,7 @@ I'm a Computer Science student since 2023 at the _UNAM, Faculty of Sciences_ ðŸ‡
 [![TensorFlow](https://skillicons.dev/icons?i=tensorflow)](https://www.tensorflow.org/?hl=es-419)
 [![PyTorch](https://skillicons.dev/icons?i=pytorch)](https://es.wikipedia.org/wiki/PyTorch)
 [![SciKit-learn](https://skillicons.dev/icons?i=scikitlearn)](https://scikit-learn.org/stable/)
-<a href="https://pandas.pydata.org/"><img src="https://anaconda.cloud/api/content/legacy_redirect/78db91c6-1bcc-49cd-a16e-0afaf7064ad0" width="52" height="52"></a>
+<a href="https://pandas.pydata.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1280px-Pandas_logo.svg.png" width="110" height="52"></a>
 <a href="https://numpy.org/"><img src="https://user-images.githubusercontent.com/50221806/86498201-a8bd8680-bd39-11ea-9d08-66b610a8dc01.png" width="52" height="52"></a>
 [![FastAPI](https://skillicons.dev/icons?i=fastapi)](https://fastapi.tiangolo.com/)
 [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/)
