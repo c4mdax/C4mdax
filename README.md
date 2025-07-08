@@ -5,6 +5,7 @@ I'm a Computer Science student since 2023 at the _UNAM, Faculty of Sciences_ ðŸ‡
 ## â—Ž Languages & Frameworks I'm studying
 [![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
 [![Java](https://skillicons.dev/icons?i=java)](https://www.java.com/es/)
+[![JavaScript](https://skillicons.dev/icons?i=javascript)](https://es.wikipedia.org/wiki/JavaScript)
 <a href="https://en.wikipedia.org/wiki/SQL"><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="" height="46"></a>
 [![Rust](https://skillicons.dev/icons?i=rust)](https://www.rust-lang.org/es)
 [![Go](https://skillicons.dev/icons?i=go)](https://go.dev/)
