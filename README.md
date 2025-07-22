@@ -7,8 +7,6 @@ I'm a Computer Science student since 2023 at the _UNAM, Faculty of Sciences_ ðŸ‡
 [![Java](https://skillicons.dev/icons?i=java)](https://www.java.com/es/)
 [![JavaScript](https://skillicons.dev/icons?i=javascript)](https://es.wikipedia.org/wiki/JavaScript)
 <a href="https://en.wikipedia.org/wiki/SQL"><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="" height="46"></a>
-[![Rust](https://skillicons.dev/icons?i=rust)](https://www.rust-lang.org/es)
-[![Go](https://skillicons.dev/icons?i=go)](https://go.dev/)
 [![TensorFlow](https://skillicons.dev/icons?i=tensorflow)](https://www.tensorflow.org/?hl=es-419)
 [![PyTorch](https://skillicons.dev/icons?i=pytorch)](https://es.wikipedia.org/wiki/PyTorch)
 [![SciKit-learn](https://skillicons.dev/icons?i=scikitlearn)](https://scikit-learn.org/stable/)
