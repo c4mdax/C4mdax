@@ -26,7 +26,7 @@ A security-focused tool that utilizes Least Significant Bit (LSB) steganography 
 
 ---
 
-### 📚 Continual Learning
+### Continual Learning
 * [Machine Learning Engineer Roadmap](https://github.com/C4mdax/Machine_Learning/blob/main/Roadmap/ROADMAP.md) - Documenting my path and resources for ML.
 
 <br>
