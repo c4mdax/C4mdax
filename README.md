@@ -1,5 +1,3 @@
-
-
 # Luis Angel
 ### Computer Science student, Faculty of Sciences @ UNAM
 - Backend Engineering (Java/Scala) and ML (LLMs and CV) enthusiast.
