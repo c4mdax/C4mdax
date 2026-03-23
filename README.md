@@ -7,7 +7,7 @@
 
 ### Tech Stack
 Studying, learning and continuously improving in:
-- **Languages**: Java, Python, Scala
+- **Languages**: Java, Python, Scala, SQL
 - **Backend**: Spring Boot, Spring Security, Hibernate, JUnit, Maven, Postman
 - **Data and ML**: NumPy, Pandas, SciKit-Learn
 - **Infrastructure and DB**: PostgreSQL, MongoDB, Docker, AWS, Linux
