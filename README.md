@@ -15,8 +15,11 @@ Studying, learning and continuously improving in:
 
 ### Featured Projects
 
-**[LLM-RAG Document Assistant](https://github.com/C4mdax/dragan-agent-rag)**
+**[LLM-RAG Document Assistant](https://github.com/c4mdax/dr4gan-rag)**
 A Machine Learning implementation combining Large Language Models with Retrieval-Augmented Generation (RAG) to interact with and extract information from documents.
+
+**[Atomic Pulse](https://github.com/c4mdax/atomic-pulse)**
+A data collection system on nuclear power outages in the USA based on the EIA API
 
 **[Shamir Shared Secret](https://github.com/c4mdax/Shamir-Secret)**
 An implementation of Shamir's Secret Sharing, a cryptographic algorithm that distributes a secret amongst a group of participants.
