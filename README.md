@@ -1,16 +1,17 @@
 # Luis Angel
 ### Computer Science student, Faculty of Sciences @ UNAM
-- Backend Engineering (Java/Scala) and ML (LLMs and CV) enthusiast.
-- Automata Theory, Dynamical Systems.
+- Enthusiast of Backend Engineering (Java/Scala) and ML (LLMs).
+- Interested in Automata Theory and Discrete Dynamical Systems .
 
 ---
 
-### Tech Stack
-Studying, learning and continuously improving in:
+### Studying, Exploring and Improving in
+
 - **Languages**: Java, Python, Scala, SQL
-- **Backend**: Spring Boot, Spring Security, Hibernate, JUnit, Maven, Postman
-- **Data and ML**: NumPy, Pandas, SciKit-Learn
-- **Infrastructure and DB**: PostgreSQL, MongoDB, Docker, AWS, Linux
+- **Backend**: Spring Boot (Security, Data JPA), Hibernate, Apache Pekko, FastAPI.
+- **Infrastructure**: Docker, Linux (Arch), AWS (EC2, S3, RDS), CI/CD
+- **Data and ML**: RAG, LangChain, Pandas, Scikit-learn, LLM Theory.
+- **Academia**: Cellular Automata, Emergent Behavior, Population Simulation, Discrete Dynamical Systems, Collision-based Computing, Event-Driven Architecture
 ---
 
 ### Featured Projects
@@ -29,8 +30,8 @@ A security-focused tool that utilizes Least Significant Bit (LSB) steganography 
 
 ---
 
-### Continual Learning
-* [Machine Learning Engineer Roadmap](https://github.com/C4mdax/Machine_Learning/blob/main/Roadmap/ROADMAP.md) - Documenting my path and resources for ML.
+### Misc
+[**Machine Learning Engineer Roadmap**](https://github.com/C4mdax/Machine_Learning/blob/main/Roadmap/ROADMAP.md) - Documenting my path and resources for ML.
 
 <br>
 
