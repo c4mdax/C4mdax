@@ -1,16 +1,16 @@
 # Luis Angel
 ### Computer Science student, Faculty of Sciences @ UNAM
-- Enthusiast of Backend Engineering (Java/Scala) and ML (LLMs).
-- Interested in Automata Theory and Discrete Dynamical Systems .
+- Enthusiast of Backend Engineering (Java/Scala) and ML (LLMs)
+- Interested in Automata Theory and Discrete Dynamical Systems 
 
 ---
 
 ### Studying, Exploring and Improving in
 
 - **Languages**: Java, Python, Scala, SQL
-- **Backend**: Spring Boot (Security, Data JPA), Hibernate, Apache Pekko, FastAPI.
+- **Backend**: Spring Boot (Security, Data JPA), Hibernate, Apache Pekko, FastAPI
 - **Infrastructure**: Docker, Linux (Arch), AWS (EC2, S3, RDS), CI/CD
-- **Data and ML**: RAG, LangChain, Pandas, Scikit-learn, LLM Theory.
+- **Data and ML**: RAG, LangChain, Pandas, Scikit-learn, LLM Theory
 - **Academia**: Cellular Automata, Emergent Behavior, Population Simulation, Discrete Dynamical Systems, Collision-based Computing, Event-Driven Architecture
 ---
 
