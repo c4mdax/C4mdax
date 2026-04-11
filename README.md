@@ -16,22 +16,19 @@
 
 ### Featured Projects
 
-**[LLM-RAG Document Assistant](https://github.com/c4mdax/dr4gan-rag)**
+- **[LLM-RAG Document Assistant](https://github.com/c4mdax/dr4gan-rag)**
 A Machine Learning implementation combining Large Language Models with Retrieval-Augmented Generation (RAG) to interact with and extract information from documents.
-
-**[Atomic Pulse](https://github.com/c4mdax/atomic-pulse)**
+- **[Atomic Pulse](https://github.com/c4mdax/atomic-pulse)**
 A data collection system on nuclear power outages in the USA based on the EIA API
-
-**[Shamir Shared Secret](https://github.com/c4mdax/Shamir-Secret)**
+- **[Shamir Shared Secret](https://github.com/c4mdax/Shamir-Secret)**
 An implementation of Shamir's Secret Sharing, a cryptographic algorithm that distributes a secret amongst a group of participants.
-
-**[LSB-Steganography Hider](https://github.com/C4mdax/LSB-Steganography)**
+- **[LSB-Steganography Hider](https://github.com/C4mdax/LSB-Steganography)**
 A security-focused tool that utilizes Least Significant Bit (LSB) steganography to conceal hidden information within image files.
 
 ---
 
 ### Misc
-[**Machine Learning Engineer Roadmap**](https://github.com/C4mdax/Machine_Learning/blob/main/Roadmap/ROADMAP.md) - Documenting my path and resources for ML.
+- [**Machine Learning Engineer Roadmap**](https://github.com/C4mdax/Machine_Learning/blob/main/Roadmap/ROADMAP.md) - Documenting my path and resources for ML.
 
 <br>
 
