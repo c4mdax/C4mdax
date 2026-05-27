@@ -1,7 +1,7 @@
 # Luis Angel
 ### Computer Science student, Faculty of Sciences @ UNAM
-- Enthusiast of Backend Engineering (Java/Scala) and ML (LLMs)
-- Interested in Automata Theory and Discrete Dynamical Systems 
+- Backend, Distributed Systems, Infra, AI/Data Systems
+- Programming Languages, Cellular Automata, Knowledge Representation
 
 ---
 
