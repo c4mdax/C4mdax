@@ -1,7 +1,7 @@
 # Luis Angel
 ### Computer Science student, Faculty of Sciences @ UNAM
-- Backend, Distributed Systems, Infra, AI/Data Systems
-- Programming Languages, Cellular Automata, Knowledge Representation
+- Industry: Backend, Distributed Systems, Infra, AI/Data Systems
+- Academia: Formal Methods, Programming Languages, Cellular Automata, Knowledge Representation
 
 ---
 
@@ -10,8 +10,8 @@
 - **Languages**: Java, Python, Scala, SQL
 - **Backend**: Spring Boot (Security, Data JPA), Hibernate, Apache Pekko, FastAPI
 - **Infrastructure**: Docker, Linux (Arch), AWS (EC2, S3, RDS), CI/CD
-- **Data and ML**: RAG, LangChain, Pandas, Scikit-learn, LLM Theory
-- **Academia**: Cellular Automata, Emergent Behavior, Population Simulation, Discrete Dynamical Systems, Event-Driven Architecture
+- **Data and ML**: RAG, LangChain, PostgreSQL, LLM Theory
+- **Academia**: Theorical Computing, Formal Methods, Knowledge Representation
 ---
 
 ### Featured Projects
